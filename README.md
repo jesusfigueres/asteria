@@ -1,2 +1,2 @@
 # asteria
-Bounded-rationality agent model
+Bounded-rationality agent-based model
